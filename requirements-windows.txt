@@ -1,0 +1,6 @@
+toga>=0.4.8
+numpy>=1.26
+Pillow>=10.0
+opencv-python>=4.9
+pygrabber>=0.2
+comtypes>=1.4
