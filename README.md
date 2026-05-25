@@ -1,6 +1,7 @@
-#ビルド済みEXEの配布
+# ビルド済みEXEの配布
 
 Booth
+
 
 
 # Lip Camera IP Server
